@@ -22,4 +22,4 @@ To run the **Age Calculator** locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/Mithun-AM/Age-Calculator.git
